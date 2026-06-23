@@ -13,9 +13,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0022-generate-parentheses) |
 | [0937-reorder-data-in-log-files](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0937-reorder-data-in-log-files) |
 ## Sorting
 |  |
 | ------- |
 | [0937-reorder-data-in-log-files](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0937-reorder-data-in-log-files) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
