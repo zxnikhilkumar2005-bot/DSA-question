@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0937-reorder-data-in-log-files](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0937-reorder-data-in-log-files) |
 | [1200-minimum-absolute-difference](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1200-minimum-absolute-difference) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -36,8 +37,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
