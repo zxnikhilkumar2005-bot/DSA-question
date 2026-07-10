@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -35,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0022-generate-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1301-number-of-paths-with-max-score) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -127,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -153,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0146-lru-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
