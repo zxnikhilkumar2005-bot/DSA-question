@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0937-reorder-data-in-log-files](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0937-reorder-data-in-log-files) |
 | [1200-minimum-absolute-difference](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1288-remove-covered-intervals) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3620-network-recovery-pathways) |
