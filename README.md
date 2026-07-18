@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0045-jump-game-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0045-jump-game-ii) |
 | [0937-reorder-data-in-log-files](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0937-reorder-data-in-log-files) |
 | [1200-minimum-absolute-difference](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1288-remove-covered-intervals) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0045-jump-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1301-number-of-paths-with-max-score) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0045-jump-game-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
