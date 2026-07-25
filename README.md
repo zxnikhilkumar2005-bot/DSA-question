@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
