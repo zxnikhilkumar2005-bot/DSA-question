@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0053-maximum-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0937-reorder-data-in-log-files](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0937-reorder-data-in-log-files) |
 | [1200-minimum-absolute-difference](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1260-shift-2d-grid) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0937-reorder-data-in-log-files](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0937-reorder-data-in-log-files) |
 | [1200-minimum-absolute-difference](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1288-remove-covered-intervals) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3312-sorted-gcd-pair-queries) |
