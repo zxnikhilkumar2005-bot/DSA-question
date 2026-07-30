@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3536-maximum-product-of-two-digits) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0045-jump-game-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
