@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0146-lru-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3312-sorted-gcd-pair-queries) |
 ## Rolling Hash
 |  |
