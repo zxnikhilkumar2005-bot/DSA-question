@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1301-number-of-paths-with-max-score) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1406-stone-game-iii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1406-stone-game-iii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
