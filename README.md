@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0044-wildcard-matching) |
 | [0937-reorder-data-in-log-files](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0937-reorder-data-in-log-files) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/0022-generate-parentheses) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zxnikhilkumar2005-bot/DSA-question/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Prefix Sum
 |  |
 | ------- |
